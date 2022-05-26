@@ -1,0 +1,2 @@
+Fixed:-
+  Box going out of the playing area
